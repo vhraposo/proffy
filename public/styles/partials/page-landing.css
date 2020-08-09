@@ -83,7 +83,7 @@ background: var(--color-secondary-dark);
 .total-connections img {
     margin-left: 0.8rem;
 }
-@media (max-width: 699px){
+@media (max-width: 1100px){
     :root{
         font-size: 40%; /*Modificar as meridas rem */
     }
